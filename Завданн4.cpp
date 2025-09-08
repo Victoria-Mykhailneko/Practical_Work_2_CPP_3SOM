@@ -2,11 +2,11 @@
 using namespace std;
 
 int main() {
-    double -;
+    double x, y;
     cout << "Введіть x: ";
     cin >> x;
 
-    y = --
+    y = x * x + 2 * x + 1;
 
     cout << "y = " << y << endl;
     return 0;
